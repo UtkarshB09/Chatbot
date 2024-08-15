@@ -1,3 +1,7 @@
+This project involves building a chatbot in Dialogflow for a food delivery system. It is an end-to-end project covering Dialogflow , building a backend in python and Fastapi, interactions with MySQL database, and much more.
+
+
+
 Directory structure
 ===================
 backend: Contains Python FastAPI backend code
